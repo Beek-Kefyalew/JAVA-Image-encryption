@@ -1,0 +1,33 @@
+ 		===========================================================
+		====												   ====
+		====				HiLCoE							   ====
+		=  =		school of computer science &			   =  =
+ 		=  = 				Technology						   =  =
+		====           	Java project programming 2			   ====
+		==== 												   ====
+		===========================================================
+
+	Project name : JImage encryptor 
+	Done by : Beek Kefyalew
+	Student ID : NP5622
+	Section A
+	Group 1
+	
+	Student contact info :
+				Email: bekidelta@gmail.com
+				Mobile : +251 961 007 216
+	Project could also be found in my GitHub starting from August 23
+			 https://github.com/Bekidelta4/JAVA-Image-encryption/
+
+	Submited date Auguest 22 	3:00 pm
+
+	Submitted to 	
+				Email: Elimangd@yahoo.com
+				Mobile: +251 911 108 779
+
+	Project discription :
+		this project contains 3 files, the main project file, the "icon"
+		folder for icons of manu itmes, and this project discription.txt file
+		all compressed with a zip file. 
+
+		The main.java file is the project source code.
